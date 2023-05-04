@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33626.354
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaxLibrary", "TestTaxLibrary\TestTaxLibrary.csproj", "{EA32A018-DC5B-44F4-9DAA-FECA406B870B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA32A018-DC5B-44F4-9DAA-FECA406B870B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA32A018-DC5B-44F4-9DAA-FECA406B870B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA32A018-DC5B-44F4-9DAA-FECA406B870B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA32A018-DC5B-44F4-9DAA-FECA406B870B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D83259-8A77-4273-9B07-DB1B3E8F7542}
+	EndGlobalSection
+EndGlobal
