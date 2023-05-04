@@ -26,5 +26,12 @@
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>
+	
+	<ItemGroup>
+		<None Include="..\..\TaxWare\TaxWare\src\03_CoreLogic\TaxWareLib\bin\Release\netstandard2.0\publish\*.qstx">
+			<Link>%(RecursiveDir)%(FileName)%(Extension)</Link>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
 
 </Project>
